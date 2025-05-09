@@ -1,4 +1,3 @@
-
 % Query Examples -> Run these in SWI-Prolog
 % ----------------------------------------
 
